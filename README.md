@@ -11,19 +11,19 @@ Plugin help us remove file and floder in command line
 ## Install NodeJS
 [Install NodeJs click here !](https://nodejs.org/en/)
 
-## Install
+## Install global
 
 ```bash
 npm i -g vnrm
 ```
-## Use
 
-### Help
+## Install in project
 
 ```bash
-vnrm -h
+npm i vnrm --save-dev
 ```
-### Delete, Remove
+
+## Use
 
 ```bash
 vnrm <folderName|fileName>

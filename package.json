@@ -1,8 +1,15 @@
 {
   "name": "vnrm",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "bin/vnrm.js",
   "description": "A deep deletion module for node (like `rm -rf`)",
+  "keywords": [
+    "command-tools",
+    "rm -r",
+    "rimraf",
+    "remove",
+    "del"
+],
   "author": "Jundat95",
   "license": "ISC",
   "repository": "git://github.com/jundat95/vnrm.git",
