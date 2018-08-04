@@ -1,6 +1,6 @@
 {
   "name": "vnrm",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "bin/vnrm.js",
   "description": "A deep deletion module for node (like `rm -rf`)",
   "author": "Jundat95",
@@ -15,6 +15,7 @@
     "chalk": "^2.4.1",
     "glob": "^7.1.2"
   },
+  "deprecated": false,
   "files": [
     "LICENSE",
     "README.md",
