@@ -1,6 +1,6 @@
 {
   "name": "vnrm",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "main": "bin/vnrm.js",
   "description": "A deep deletion module for node (like `rm -rf`)",
   "author": "Jundat95",
@@ -10,6 +10,7 @@
     "test": "tap test/*.js"
   },
   "bin": "./bin/index.js",
+  "bundleDependencies": false,
   "dependencies": {
     "chalk": "^2.4.1",
     "glob": "^7.1.2"

@@ -14,19 +14,19 @@ Plugin help us remove file and floder in command line
 ## Install
 
 ```bash
-    npm i -g vnrm
+npm i -g vnrm
 ```
 ## Use
 
 ### Help
 
 ```bash
-    vnrm -h
+vnrm -h
 ```
 ### Delete, Remove
 
 ```bash
-    vnrm <folderName|fileName>
+vnrm <folderName|fileName>
 ```
 
 ## Tutorial 
