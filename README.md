@@ -13,7 +13,9 @@ Plugin help us remove file and floder in command line
 
 ## Install
 
-```javascript npm i -g vnrm```
+```bash
+    npm i -g vnrm
+```
 
 
 ## Tutorial 
