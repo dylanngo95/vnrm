@@ -1,0 +1,27 @@
+{
+  "name": "vnrm",
+  "version": "0.0.1",
+  "main": "bin/vnrm.js",
+  "description": "A deep deletion module for node (like `rm -rf`)",
+  "author": "Jundat95",
+  "license": "ISC",
+  "repository": "git://github.com/jundat95/vnrm.git",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "bin": "./bin/index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "glob": "^7.0.5"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "vnrm.js"
+  ],
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "tap": "^10.1.2"
+  }
+}
