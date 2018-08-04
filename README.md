@@ -16,9 +16,19 @@ Plugin help us remove file and floder in command line
 ```bash
     npm i -g vnrm
 ```
+## Use
 
+### Help
+
+```bash
+    vnrm -h
+```
+### Delete, Remove
+
+```bash
+    vnrm <folderName|fileName>
+```
 
 ## Tutorial 
 
-![Remove file example](https://media.giphy.com/media/3oFzm591DaU08CLcJ2/)
-![Remove folder example](https://media.giphy.com/media/3oFzm591DaU08CLcJ2/)
+![Remove file example](./images/image-vnrm.png)
