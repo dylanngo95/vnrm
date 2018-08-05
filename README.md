@@ -16,11 +16,21 @@ Plugin help us remove file and floder in command line
 ```bash
 npm i -g vnrm
 ```
+Or
+
+```bash
+yarn add vnrm
+```
 
 ## Install in project
 
 ```bash
 npm i vnrm --save-dev
+```
+Or
+
+```bash
+yarn add vnrm --dev
 ```
 
 ## Use
